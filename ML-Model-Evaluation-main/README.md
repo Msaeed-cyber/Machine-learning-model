@@ -1,5 +1,5 @@
 📂 Repository Structure
-iris-logistic-regression/
+
 │── ML-modeling.py   # Your main script
 │── requirements.txt              # Dependencies
 │── README.md                     # Documentation
