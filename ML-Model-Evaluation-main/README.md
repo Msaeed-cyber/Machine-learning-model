@@ -1,6 +1,6 @@
 📂 Repository Structure
 iris-logistic-regression/
-│── iris_logistic_regression.py   # Your main script
+│── ML-modeling.py   # Your main script
 │── requirements.txt              # Dependencies
 │── README.md                     # Documentation
 │── .gitignore                    # Ignore venv, pycache, etc.
